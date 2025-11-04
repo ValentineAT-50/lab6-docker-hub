@@ -29,3 +29,4 @@ jobs:
           context: .
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/lab6-docker-hub:latest
+
